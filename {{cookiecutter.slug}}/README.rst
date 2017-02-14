@@ -3,12 +3,15 @@
 
 
 {{ cookiecutter.description }}
+{{ cookiecutter.repo_url }}
 
 Usage
 -----
 
 Installation
 ------------
+git clone {{ cookiecutter.git_url }}
+python setup.py install
 
 Requirements
 ------------
