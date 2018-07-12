@@ -11,7 +11,7 @@ Usage
 Installation
 ------------
 git clone {{ cookiecutter.git_url }}
-python setup.py install
+pip install -e .
 
 Requirements
 ------------
