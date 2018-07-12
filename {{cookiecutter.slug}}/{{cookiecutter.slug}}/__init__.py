@@ -2,4 +2,3 @@
 
 __version__ = '{{ cookiecutter.version }}'
 __author__ = '{{ cookiecutter.author }} <{{ cookiecutter.email }}>'
-__all__ = []
