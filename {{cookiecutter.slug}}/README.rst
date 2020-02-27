@@ -22,10 +22,11 @@ License
 Directory
 ---------
 
-- **docs:** Package documentation (Sphinx)
+- **src** Source code directory
+- **docs** Package documentation (Sphinx)
 - **tests** Unit tests
 
 Authors
 -------
 
-`{{ cookiecutter.name }}` was written by `{{ cookiecutter.author}} <{{ cookiecutter.email }}>`_.
+`{{ cookiecutter.name }}` was written by `{{ cookiecutter.author }} <{{ cookiecutter.email }}>`_.
